@@ -1,0 +1,6 @@
+*.exe
+connected/
+data/
+*.txt
+iml_noniso_bipart_old.cpp
+.vscode/

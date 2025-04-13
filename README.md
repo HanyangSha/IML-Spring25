@@ -1,0 +1,1 @@
+This repo includes some code I wrote for the spring 2025 IML program at UIUC. I am under the project "Asymptotics of Localizing Entanglement". A description of the code files (excuse the poor nomenclature), as well as a documentation of my work and thoughts, can be found at the following Overleaf link: https://www.overleaf.com/read/ncqpygshhkfp#f9e6e0. 
